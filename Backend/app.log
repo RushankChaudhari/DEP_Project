@@ -1,0 +1,28 @@
+2026-03-25 16:25:02,548 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-25 16:25:02,548 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-25 16:25:02,590 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-25 16:29:40,583 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-25 16:29:40,583 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-25 16:29:40,592 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-25 16:36:22,074 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-25 16:36:22,074 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-25 16:36:22,082 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-25 16:36:37,673 [WARNING] waitress.queue: Task queue depth is 1
+2026-03-25 16:36:37,803 [WARNING] waitress.queue: Task queue depth is 2
+2026-03-25 16:37:44,004 [WARNING] waitress.queue: Task queue depth is 1
+2026-03-25 17:07:09,724 [WARNING] waitress: 1 thread(s) still running
+2026-03-26 09:25:04,676 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-26 09:25:04,676 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-26 09:25:04,751 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-26 12:42:25,440 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-26 12:42:25,440 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-26 12:42:25,455 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-29 16:10:54,482 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-29 16:10:54,493 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-29 16:10:54,528 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-03-29 16:24:18,010 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-03-29 16:24:18,010 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-03-29 16:24:18,021 [INFO] waitress: Serving on http://0.0.0.0:5000
+2026-04-23 15:46:17,068 [INFO] __main__: Starting Waitress server on 0.0.0.0:5000
+2026-04-23 15:46:17,071 [INFO] __main__: CORS origins configured: ('http://localhost:3000', 'http://127.0.0.1:3000')
+2026-04-23 15:46:17,107 [INFO] waitress: Serving on http://0.0.0.0:5000
